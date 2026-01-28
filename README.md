@@ -1,6 +1,5 @@
 # HaibeiSEM
 
----
 This repository contains data and code for the manuscript entitled "Stakeholder priorities dominate the evaluation of climate change impacts on ecosystem-service multifunctionality" by Xin Jing, Hao Wang, Wei Xu, Lin Jiang, Yu Li, Zhiyuan Ma, Peter Manning, Nathan Sanders, Bernhard Schmid, Yunfeng Yang, Zhenhua Zhang, Zhibiao Nan, Jin-Sheng He
 
 **Abstract**
